@@ -1,16 +1,26 @@
-## Hi there 👋
+# ✨ Hey,
+---
 
-<!--
-**ThasmiaS/ThasmiaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 What I do
+- Machine Learning & Data Analytics 🧠📊  
+- Bioinformatics & Computational Biology 🧬💻  
+- Interactive Web Visualizations 🌐🕹️  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Tech
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" height="50" style="filter: drop-shadow(0 0 8px #FFD43B);" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="50" style="filter: drop-shadow(0 0 8px #00599C);" alt="C++" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" style="filter: drop-shadow(0 0 8px #F7DF1E);" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" height="50" style="filter: drop-shadow(0 0 8px #E25A1C);" alt="Spark" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="50" style="filter: drop-shadow(0 0 8px #FF6F00);" alt="TensorFlow" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="50" style="filter: drop-shadow(0 0 8px #276DC3);" alt="R" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thasmias&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=FAE3E3&icon_color=EEFCCE&text_color=FFFFFF&bg_color=0d0d0d" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thasmias&layout=compact&theme=dark&hide_border=true&title_color=FAE3E3&text_color=FFFFFF&bg_color=0d0d0d" alt="Top Languages" />
+</p>
+
