@@ -1,4 +1,9 @@
-# ✨ Hey,
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=thasmias&show_icons=true&theme=transparent&count_private=true&hide_border=true&title_color=FAE3E3&icon_color=EEFCCE&text_color=FFFFFF&bg_color=0d0d0d" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thasmias&layout=donut&theme=transparent&hide_border=true&title_color=FAE3E3&text_color=FFFFFF&bg_color=0d0d0d&text_bold=true&hide=scss" alt="Top Languages" />
+</p>
+
 ---
 
 ## 🔭 What I do
@@ -19,8 +24,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="50" style="filter: drop-shadow(0 0 8px #276DC3);" alt="R" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thasmias&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=FAE3E3&icon_color=EEFCCE&text_color=FFFFFF&bg_color=0d0d0d" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thasmias&layout=compact&theme=dark&hide_border=true&title_color=FAE3E3&text_color=FFFFFF&bg_color=0d0d0d" alt="Top Languages" />
-</p>
 
