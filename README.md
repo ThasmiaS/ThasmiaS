@@ -1,10 +1,3 @@
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thasmias&show_icons=true&theme=default&count_private=true&hide_border=true&title_color=FAE3E3&icon_color=EEFCCE&text_color=FFFFFF&bg_color=0d0d0d" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thasmias&layout=donut&theme=default&hide_border=true&title_color=FAE3E3&text_color=FFFFFF&bg_color=0d0d0d&text_bold=true&hide=scss,Jupyter%20Notebook" alt="Top Languages" />
-</p>
-
----
 
 ## 🔭 What I do
 - Machine Learning & Data Analytics 🧠📊  
