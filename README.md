@@ -2,11 +2,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=ThasmiaS&show_icons=true&theme=radical)
 ![](https://streak-stats.demolab.com/?user=ThasmiaS&theme=radical)
 
-### 📊 
-*Activity Highlights**
+### A C T I V I T Y 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThasmiaS&theme=rogue)](https://github.com/ThasmiaS)
-## T O O L S
 
+## T O O L S
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" height="50" style="filter: drop-shadow(0 0 8px #FFD43B);" alt="Python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="50" style="filter: drop-shadow(0 0 8px #00599C);" alt="C++" />
