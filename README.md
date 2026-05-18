@@ -2,9 +2,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=ThasmiaS&show_icons=true&theme=radical)
 ![](https://streak-stats.demolab.com/?user=ThasmiaS&theme=radical)
 
-### 📊 L A N G U A G E S
-![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThasmiaS&layout=compact)
-
+### 📊 
+*Activity Highlights**
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThasmiaS&theme=rogue)](https://github.com/ThasmiaS)
 ## T O O L S
 
 <p align="center">
