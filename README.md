@@ -15,6 +15,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="50" style="filter: drop-shadow(0 0 8px #276DC3);" alt="R" />
 </p>
 
-![visitors](https://visitor-badge.deta.dev/badge?page_id=ThasmiaS.ThasmiaS)
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=ThasmiaS&theme=matrix&no-frame=true)
 
 
