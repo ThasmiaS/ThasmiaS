@@ -1,3 +1,9 @@
+### ⚡ GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=ThasmiaS&show_icons=true&theme=radical)
+![](https://streak-stats.demolab.com/?user=ThasmiaS&theme=radical)
+
+### 📊 Language Breakdown
+![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThasmiaS&layout=compact)
 
 ## 🔭 What I do
 - Machine Learning & Data Analytics 🧠📊  
