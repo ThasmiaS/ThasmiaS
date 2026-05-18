@@ -1,18 +1,11 @@
-### ⚡ GitHub Stats
+### S T A T S
 ![](https://github-readme-stats.vercel.app/api?username=ThasmiaS&show_icons=true&theme=radical)
 ![](https://streak-stats.demolab.com/?user=ThasmiaS&theme=radical)
 
-### 📊 Language Breakdown
+### 📊 L A N G U A G E S
 ![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThasmiaS&layout=compact)
 
-## 🔭 What I do
-- Machine Learning & Data Analytics 🧠📊  
-- Bioinformatics & Computational Biology 🧬💻  
-- Interactive Web Visualizations 🌐🕹️  
-
----
-
-## 🛠️ Tools & Tech
+## T O O L S
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" height="50" style="filter: drop-shadow(0 0 8px #FFD43B);" alt="Python" />
